@@ -6,3 +6,6 @@
 
 __Rate my pinned repositories, I will be grateful!__
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrobranGG&hide=contribs,prs&theme=dark) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrobranGG&theme=dark)]
