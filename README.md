@@ -6,7 +6,7 @@
 
 I am currently working on a project with the pygame library, I will try to release it as soon as possible!
 
-__Rate my pinned repositories, I will be grateful!__
+__Rate my pinned repositories, I will be grateful!)__
 
 # Statistics:
 
