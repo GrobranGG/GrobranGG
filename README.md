@@ -1,6 +1,6 @@
 # Welcme to my profile!
 
-💬 My name is Lev, at the moment I am 16 years old, I live in Russia.
+💬 My name is Lev, at the moment I am 17 years old, I live in Russia.
 I am currently working on a project with the pygame library, I will try to release it as soon as possible!
 
 __Rate my pinned repositories, I will be grateful!__
