@@ -1,8 +1,6 @@
 # Welcme to my profile!
 
-💬 My name is Lev, at the moment I am 17 years old, I live in Russia.
-
-At the moment, I rarely add my projects here, mostly my old works can be found here :)
+💬 My name is Lev, at the moment I am 17 years old, I live in Russia.<br>At the moment, I rarely add my projects here, mostly my old works can be found here :)
 
 __Rate my pinned repositories, I will be grateful!__
 
