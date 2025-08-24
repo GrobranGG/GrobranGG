@@ -1,7 +1,10 @@
-# Welcme to my profile!
+# Welcome to my profile!  
 
-💬 My name is Lev, at the moment I am 17 years old, I live in Russia.<br>At the moment, I rarely add my projects here, mostly my old works can be found here :)
+💬 My name is Lev, I am 17 years old, and I live in Russia.  
 
+I’m currently studying to become a **Project Manager**, but sometimes I share my **code** and **personal projects** here as well — so you can find a mix of things on my profile 🙂  
+
+At the moment, I rarely add new projects, so most of what you see are my older works.  
 __Rate my pinned repositories, I will be grateful!__
 
 # Statistics:
