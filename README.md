@@ -1,6 +1,6 @@
 # Welcome to my profile!  
 
-💬 My name is Lev, I am 17 years old, and I live in Russia.  
+💬 My name is Lev, I am 18 years old, and I live in Russia.  
 
 I’m currently studying to become a **Project Manager**, but sometimes I share my **code** and **personal projects** here as well — so you can find a mix of things on my profile 🙂  
 
