@@ -25,6 +25,9 @@ status:   In Progress
 <img src="https://img.shields.io/badge/AARRR-1f2933?style=for-the-badge" />
 <img src="https://img.shields.io/badge/North_Star_Metric-1f2933?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Unit_economics-1f2933?style=for-the-badge" />
+<img src="https://img.shields.io/badge/A%2FB_tests-1f2933?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SWOT-1f2933?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Roadmaps-1f2933?style=for-the-badge" />
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/TOOLS-F7B32B?style=for-the-badge" />
